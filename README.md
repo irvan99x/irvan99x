@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Web Programming, Flutter & React.Js**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** **ReactJS**
 
 - 📫 How to reach me **mirvan3107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/irvannih0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irvannih0" height="30" width="40" /></a>
+<a href="https://fb.com/irvannih0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irvannih_" height="30" width="40" /></a>
 <a href="https://instagram.com/irvannih_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irvannih_" height="30" width="40" /></a>
 </p>
 
