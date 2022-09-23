@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **mirvan3107@gmail.com**
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/irvan99x/cv/master/CV.pdf](https://raw.githubusercontent.com/irvan99x/cv/master/CV.pdf)
+- 📄 Know about my experience [https://github.com/irvan99x?tab=repositories](https://github.com/irvan99x?tab=repositories)
+
+- 📄 Know about my resume [https://raw.githubusercontent.com/irvan99x/cv/master/CV.pdf](https://raw.githubusercontent.com/irvan99x/cv/master/CV.pdf)
 
 - ⚡ Fun fact **My hobbies are sports and learning new things**
 
