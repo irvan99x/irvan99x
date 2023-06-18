@@ -3,18 +3,16 @@
 ```javascript
 const Muhammad Irvan = {
     pronouns: "He" || "Him",
-    askMeAbout: "Computer Engineering",
+    askMeAbout: "Computer Technology",
     code: ["Dart", "Javascript"],
     technologies : {
         frontend : {
             language: ["HTML", "CSS", "JavaScript"],
             framework: ["bootstrap"],
-            misc: []
         },
         backend : {
             language: ["JavaScript"],
-            framework: ["HapiJs", "ExpressJs"],
-            misc: ["NodeJs", "rabbitmq"]
+            framework: ["NodeJs", "ExpressJs"],
         },
         mobile: {
             languge: ["dart"],
@@ -24,6 +22,6 @@ const Muhammad Irvan = {
         cloud : ["AWS"],
         design : ["Figma", "AdobeXD"]
     },
-    currentFocus : "Learn New Things"
+    currentFocus : "Anything to do with Technology"
 };
 ```
