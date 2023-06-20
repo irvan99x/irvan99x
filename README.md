@@ -9,6 +9,7 @@ const Muhammad Irvan = {
         frontend : {
             language: ["HTML", "CSS", "JavaScript"],
             framework: ["bootstrap"],
+            misc: ["ReactJs"],
         },
         backend : {
             language: ["JavaScript"],
