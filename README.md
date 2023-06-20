@@ -1,5 +1,4 @@
 ## 🚀 About Me
-
 ```javascript
 const Muhammad Irvan = {
     pronouns: "He" || "Him",
@@ -26,3 +25,7 @@ const Muhammad Irvan = {
     currentFocus : "Anything to do with Technology"
 };
 ```
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.irvan.website/)
+[![Facebook](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-irvann/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/irvaaan__/)
