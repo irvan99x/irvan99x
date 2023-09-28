@@ -3,7 +3,7 @@
 const Muhammad Irvan = {
     pronouns: "He" || "Him",
     askMeAbout: "Computer Technology",
-    code: ["Dart", "Javascript"],
+    code: ["Dart", "JavaScript"],
     technologies : {
         frontend : {
             language: ["HTML", "CSS", "JavaScript"],
@@ -15,12 +15,12 @@ const Muhammad Irvan = {
             framework: ["NodeJs", "ExpressJs"],
         },
         mobile: {
-            languge: ["dart"],
+            language: ["Dart"],
             framework: ["Flutter"],
         },
         databases : ["PostgreSQL", "MySQL", "Firebase"],
         cloud : ["AWS"],
-        design : ["Figma", "AdobeXD"]
+        design : ["Figma", "AdobeXD", "Balsamiq"]
     },
     currentFocus : "Anything to do with Technology"
 };
